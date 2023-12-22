@@ -1,0 +1,343 @@
+{'id': '2Xgo2Dg87oWxiXwC9UPtAm', 'name': 'Certified Lover Boy', 'type': 'album', 'rlsMonth': 'May', 'rlsYear': '@2016', 'track': ['2BcMwX1MPV6ZHP4tUT9uq6', '4VCbgIdr8ptegWeJpqLVHH']}
+{'id': '0RHqZvYeXg9PqG0l4cMCuV', 'name': 'Her Loss', 'type': 'album', 'rlsMonth': 'Oct', 'rlsYear': '@2019', 'track': ['1bDbXMyjaUIooNwFE9wn0N', '2KLwPaRDOB87XOYAT2fgxh', '34tz0eDhGuFErIuW3q4mPX', '46s57QULU02Voy0Kup6UEb', '2ZL7WZcjuYKi1KUDtp4kCC']}
+{'id': '8WTk77pBkzd5QRKLg18CuM', 'name': 'HEROES  VILLAINS', 'type': 'album', 'rlsMonth': 'Feb', 'rlsYear': '@2017', 'track': ['2dHHgzDwk4BJdRwy9uXhTO', '4WuOWVnAqvEQxgSRrspBgt', '0vjeOZ3Ft5jvAi9SBFJm1j']}
+{'id': '4A3Spb6gTicYE0BMJBk1s3', 'name': 'Honestly Nevermind', 'type': 'album', 'rlsMonth': 'Nov', 'rlsYear': '@2010', 'track': ['3F5CgOj3wFlRv51JsHbxhe']}
+{'id': '8ZS4gtegbfnHhxDGlGuxAl', 'name': 'SAVAGE MODE II', 'type': 'album', 'rlsMonth': 'May', 'rlsYear': '@2017', 'track': ['6pcywuOeGGWeOQzdUyti6k']}
+{'id': '6OkBXqFxgQqgzivFG27Cmh', 'name': 'All Eyez On Me', 'type': 'album', 'rlsMonth': 'Nov', 'rlsYear': '@2007', 'track': ['5g9lS8deSIxItFBmZRC4vN', '4VQNCzfZ3MdHEwwErNXpBo', '6LwrEZNkvFTOypNwSLjuaJ', '7rUchbZxrhF29Q0vYjKEU0']}
+{'id': '3SgcJ5u7Ll7wYgQuozw3ng', 'name': 'Greatest Hits', 'type': 'compilation', 'rlsMonth': 'Jan', 'rlsYear': '@2012', 'track': ['0Z2J91b2iTGLVTZC4fKgxf', '3ia3dJETSOllPsv3LJkE35', '1ofhfV90EnYhEr7Un2fWiv', '19Ym5Sg0YyOCa6ao21bdoG']}
+{'id': '7KTYdzoEBtDPPBlnWfLn8r', 'name': 'Me Against The World', 'type': 'album', 'rlsMonth': 'Jul', 'rlsYear': '@2010', 'track': ['6tDxrq4FxEL2q15y37tXT9']}
+{'id': '3Otq8b0p1ftz1BBoGgWUvC', 'name': 'R U Still Down Remember Me', 'type': 'album', 'rlsMonth': 'Aug', 'rlsYear': '@2003', 'track': ['4AE7Lj39VnSZNOmGH2iZaq']}
+{'id': '5Fbm8Di0zGUki6QgGpURM7', 'name': 'Strictly 4 My NIGGAZ', 'type': 'album', 'rlsMonth': 'Dec', 'rlsYear': '@2010', 'track': ['0XRbYXQUymj9SJkrr8YK5B']}
+{'id': '0Gs7m39866ikTgTcJVUeln', 'name': 'Best Friend Remix', 'type': 'single', 'rlsMonth': 'Feb', 'rlsYear': '@2013', 'track': ['1wI3UvluGGKUeFeVFsP9do']}
+{'id': '9IKW9H8VBnmBB3WXmvMTAW', 'name': 'Curtain Call 2', 'type': 'album', 'rlsMonth': 'Jun', 'rlsYear': '@2004', 'track': ['7rK0iM6jwuo1oizdx8suQA', '6CPAznSrkDmiPBgLXoi00f']}
+{'id': '5HmZ3mdYFrmRoAiHT5dnU0', 'name': 'Get Rich Or Die Tryin', 'type': 'album', 'rlsMonth': 'Jan', 'rlsYear': '@2015', 'track': ['4RY96Asd9IefaL3X4LOLZ8', '2D1hlMwWWXpkc3CZJ5U351', '2I9foKseoFQh07p6sD2voE', '41bIQPBE1lFN0mmw6Lmssz', '7JeKXMQKm6GoLGTkNy2jZ0']}
+{'id': '3Vzx2BnOa5wAWPm4Zgm7Fd', 'name': 'The Massacre', 'type': 'album', 'rlsMonth': 'May', 'rlsYear': '@2001', 'track': ['5D2mYZuzcgjpchVY1pmTPh', '4nva9EpKntUTs6CRSGBCn9', '69bHJ9qs5FrUJbKP8xU8uZ']}
+{'id': '0UWdloE83lkuRU8BfZNhgA', 'name': 'Atrangi Re', 'type': 'album', 'rlsMonth': 'Dec', 'rlsYear': '@2016', 'track': ['3gOXq3FPPesm7VLPKmef6j']}
+{'id': '9Owi19OvNhBETOgZe1BH6x', 'name': 'Guru Original Motion Picture Soundtrack', 'type': 'album', 'rlsMonth': 'Sep', 'rlsYear': '@2011', 'track': ['4FeczSomVWVyU4FW7xDeAI']}
+{'id': '8KVwnM6YH7g5LWapopNBq7', 'name': 'I Original Motion Picture Soundtrack', 'type': 'album', 'rlsMonth': 'Jun', 'rlsYear': '@2020', 'track': ['7mLEUzAulFygMchoGMrP8E']}
+{'id': '9Eo8QBfJH5BNcVdZsJBldo', 'name': 'Jodhaa Akbar Original Motion Picture Soundtrack', 'type': 'album', 'rlsMonth': 'Jan', 'rlsYear': '@2015', 'track': ['1O5mTSQa0sCce9ghhDqIZl']}
+{'id': '0DbzFSwPgJDma3dcswCzJA', 'name': 'Mimi Original Motion Picture Soundtrack', 'type': 'album', 'rlsMonth': 'Mar', 'rlsYear': '@2012', 'track': ['3KeMulXbLDJBQdY5PZbGEh']}
+{'id': '6NRl1guyRQaeCCv74lgaKC', 'name': 'OK Jaanu Original Motion Picture Soundtrack', 'type': 'album', 'rlsMonth': 'Apr', 'rlsYear': '@2014', 'track': ['6bdpj89aYEBjhpsenXAsmO']}
+{'id': '4ZCHS5nqsMFITbCK8fV6I5', 'name': 'Ponni Nadhi From Ponniyin Selvan Part 1 Original Motion Picture Soundtrack', 'type': 'single', 'rlsMonth': 'Jun', 'rlsYear': '@2012', 'track': ['1uJ2czshFLqimctgvsxfv2']}
+{'id': '9G5IvQx34wOTU1kBXLHfJF', 'name': 'Raanjhanaa Original Motion Picture Soundtrack', 'type': 'album', 'rlsMonth': 'Apr', 'rlsYear': '@2010', 'track': ['5OMUXgfXsSukZ0zxelpC3b']}
+{'id': '2WT54ZTungchhkR1Ep6K8v', 'name': 'Rockstar', 'type': 'album', 'rlsMonth': 'Jun', 'rlsYear': '@2014', 'track': ['7F8RNvTQlvbeBLeenycvN6']}
+{'id': '1OUXZ6PgwwuY4wUiDzQ1Uw', 'name': 'Vendhu Thanindhathu Kaadu Original Motion Picture Soundtrack', 'type': 'single', 'rlsMonth': 'May', 'rlsYear': '@2008', 'track': ['3i7qScF9Oyp31O9bAutJez']}
+{'id': '6SZLamUN9d7s3OvkzzGuc7', 'name': 'Abba', 'type': 'album', 'rlsMonth': 'Apr', 'rlsYear': '@2004', 'track': ['2TxCwUlqaOH3TIyJqGgR91']}
+{'id': '6TYwTDTKlliBLfrFclaJdO', 'name': 'Arrival', 'type': 'album', 'rlsMonth': 'Nov', 'rlsYear': '@2017', 'track': ['0GjEhVFGZW8afUYGChu3Rr']}
+{'id': '6VwndWDihGNSNNblIngMn1', 'name': 'Super Trouper', 'type': 'album', 'rlsMonth': 'Sep', 'rlsYear': '@2009', 'track': ['3oEkrIfXfSh9zGnE7eBzSV', '4euAGZTszWPrriggYK0HG9', '0J2p4KYdr6Mg4ET6JPlbe1']}
+{'id': '5ChAhlg4g6Z5htnwHqpgL3', 'name': 'The Album', 'type': 'album', 'rlsMonth': 'Nov', 'rlsYear': '@2011', 'track': ['5BckPAYcKEJuYs1eV1BHHe']}
+{'id': '4UGiAOEEu0NFrCJ6m2AUgk', 'name': 'VoulezVous', 'type': 'album', 'rlsMonth': 'Mar', 'rlsYear': '@2018', 'track': ['3vkQ5DAB1qQMYO4Mr9zJN6', '7rWgGyRK7RAqAAXy4bLft9', '762B4bOcXF7I2Y8UlKTyTy']}
+{'id': '0PgnPgUZ69dtkcSl8aW900', 'name': 'Waterloo', 'type': 'album', 'rlsMonth': 'Jul', 'rlsYear': '@2008', 'track': ['3Dy4REq8O09IlgiwuHQ3sk']}
+{'id': '9W6MU1Tg3wY1MSrtq47wZd', 'name': 'Back In Black', 'type': 'album', 'rlsMonth': 'Oct', 'rlsYear': '@2014', 'track': ['08mG3Y1vljYA6bvDt4Wqkj', '2SiXAy7TuUkycRVbbWDEpo', '69QHm3pustz01CJRwdo20z', '0C80GCp0mMuBzLf3EAXqxv']}
+{'id': '1Tq7uuZB3yL2edUDrKzoVT', 'name': 'Black Ice', 'type': 'album', 'rlsMonth': 'Dec', 'rlsYear': '@2001', 'track': ['4feXJ5IC3avXsVW9WNFSag']}
+{'id': '5Hmec3kU6S0ZomZ4hiXcgO', 'name': 'Dirty Deeds Done Dirt Cheap', 'type': 'album', 'rlsMonth': 'Dec', 'rlsYear': '@2015', 'track': ['2d4e45fmUnguxh6yqC7gNT']}
+{'id': '8Hc2zUpWZT5BUeH6DVBzgX', 'name': 'High Voltage', 'type': 'album', 'rlsMonth': 'Mar', 'rlsYear': '@2021', 'track': ['7LRMbd3LEoV5wZJvXT1Lwb', '7nemcVsXVFZF01iqpIIo2Y']}
+{'id': '1JdwAWr3kAsCcrQfRCNtKe', 'name': 'Highway to Hell', 'type': 'album', 'rlsMonth': 'Dec', 'rlsYear': '@2017', 'track': ['2zYzyRzz6pRmhPzyfMEC8s']}
+{'id': '6M7cdxn9yZ2KCXgqy86q9p', 'name': 'The Razors Edge', 'type': 'album', 'rlsMonth': 'Apr', 'rlsYear': '@2018', 'track': ['57bgtoPSgt236HzfBOd8kj']}
+{'id': '8BXQJy4BIzrNr3dAasAxMZ', 'name': '4', 'type': 'album', 'rlsMonth': 'Mar', 'rlsYear': '@2014', 'track': ['1z6WtY7X4HQJvzxC4UgkSf', '1uXbwHHfgsXcUKfSZw5ZJ0']}
+{'id': '2IzvNsWodMCSG0u7YteSA6', 'name': 'BEYONC Platinum Edition', 'type': 'album', 'rlsMonth': 'Oct', 'rlsYear': '@2000', 'track': ['6jG2YzhxptolDzLHTGLt7S']}
+{'id': '3QW0eNe6ze3Dg35fLeJkao', 'name': 'Dangerously In Love', 'type': 'album', 'rlsMonth': 'Sep', 'rlsYear': '@2014', 'track': ['5IVuqXILoxVWvWEPm82Jxr']}
+{'id': '3JicQgbT9f30lYE9tbV91Q', 'name': 'I AMSASHA FIERCE', 'type': 'album', 'rlsMonth': 'Sep', 'rlsYear': '@2004', 'track': ['3ERa3mEeOnrh2Mc47qM6T1']}
+{'id': '9ABn2hRniR3Yx0ALuHC58N', 'name': 'Perfect Duet Ed Sheeran  Beyonc', 'type': 'single', 'rlsMonth': 'Jan', 'rlsYear': '@2006', 'track': ['1bhUWB0zJMIKr9yVPrkEuI']}
+{'id': '6AUu5DJbGTKM9Ilt2gw42r', 'name': 'RENAISSANCE', 'type': 'album', 'rlsMonth': 'Mar', 'rlsYear': '@2020', 'track': ['1xzi1Jcr7mEi9K2RfzLOqS', '1Hohk6AufHZOrrhMXZppax', '5pyoxDZ1PX0KxBxiRVxA4U', '0314PeD1sQNonfVWix3B2K']}
+{'id': '8B0ZgrSqzuAfAz1UtfJfDU', 'name': 'Elephunk', 'type': 'album', 'rlsMonth': 'May', 'rlsYear': '@2009', 'track': ['0xmjwnQ3FNE6HuWCt2nHdZ']}
+{'id': '8CZfs6BTAEogFazZQn5tnw', 'name': 'ELEVATION', 'type': 'album', 'rlsMonth': 'Jul', 'rlsYear': '@2009', 'track': ['0YJW8OXw8G1xDfkzaID3vv', '31rWRFlQyMpmF6hfN4vUFj']}
+{'id': '3Gx0F0oQWhJ7gHscgHkJw9', 'name': 'Monkey Business', 'type': 'album', 'rlsMonth': 'Jan', 'rlsYear': '@2005', 'track': ['6btyEL6NwUa97Nex9cZFvo']}
+{'id': '8T7IMNTkuvG3oWASRoT1Vm', 'name': 'Pump It Louder', 'type': 'single', 'rlsMonth': 'Jul', 'rlsYear': '@2020', 'track': ['2yEHX6MqAXPyD7bm47A2Br']}
+{'id': '3LRdJ6QUKhoTGyeJ5648r5', 'name': 'The Beginning', 'type': 'album', 'rlsMonth': 'Dec', 'rlsYear': '@2021', 'track': ['3JA9Jsuxr4xgHXEawAdCp4']}
+{'id': '2FJSG0GunSdaTHMp5MMDO6', 'name': 'THE END THE ENERGY NEVER DIES', 'type': 'album', 'rlsMonth': 'Aug', 'rlsYear': '@2006', 'track': ['2H1047e0oMSj10dgp7p2VG', '6wOYnPq1hPihRepcDClPUw']}
+{'id': '8Sup9NJVnvEtaLQMbHmSKQ', 'name': 'TRANSLATION', 'type': 'album', 'rlsMonth': 'Jan', 'rlsYear': '@2016', 'track': ['1zLBsSVxETQOfINOLYvT5m', '5NyS3oxTlos3Agl2YtZwrC']}
+{'id': '3HteafgfvMr7foabGlfX0f', 'name': 'Baby One More Time Digital Deluxe Version', 'type': 'album', 'rlsMonth': 'Jun', 'rlsYear': '@2019', 'track': ['3MjUtNVVq3C8Fn0MP3zhXa']}
+{'id': '3S1k6fIRdEJhIqhztWExhX', 'name': 'Blackout', 'type': 'album', 'rlsMonth': 'Feb', 'rlsYear': '@2000', 'track': ['6ic8OlLUNEATToEFU3xmaH']}
+{'id': '4Nhftr025pAbQQXoGIP9R2', 'name': 'Circus Deluxe Version', 'type': 'album', 'rlsMonth': 'Mar', 'rlsYear': '@2010', 'track': ['4fixebDZAVToLbUCuEloa2', '7jk7gqyEonmVVYahZN5zhW', '2hdy9Wt9qp7M7d0U3ossu2']}
+{'id': '8W6niY7asH1MS8spbxWqku', 'name': 'Femme Fatale Deluxe Version', 'type': 'album', 'rlsMonth': 'Oct', 'rlsYear': '@2013', 'track': ['6T689Jvh5KrSXyaPtUWZtQ']}
+{'id': '3MTQ2sAfRgfLSlPVsSNubL', 'name': 'In The Zone', 'type': 'album', 'rlsMonth': 'Aug', 'rlsYear': '@2015', 'track': ['6I9VzXrHxO9rA9A5euc8Ak']}
+{'id': '9IX7WgRN3OmoFzyMX3l5Sz', 'name': 'My Only Wish This Year', 'type': 'single', 'rlsMonth': 'Dec', 'rlsYear': '@2005', 'track': ['0YWUHZPJVg4iujddsJDwhM']}
+{'id': '7SYUK2GY374GqKas7Fy6DM', 'name': 'Oops I Did It Again', 'type': 'album', 'rlsMonth': 'May', 'rlsYear': '@2010', 'track': ['6naxalmIoLFWR0siv8dnQQ']}
+{'id': '0NaHCNoYH4TCkZMUBCJ5KW', 'name': 'The Lockdown Sessions', 'type': 'album', 'rlsMonth': 'Jan', 'rlsYear': '@2003', 'track': ['3lFwSDBCNo3CcN09UppUnm', '7rglLriMNBPAyuJOMGwi39']}
+{'id': '2YL0a3ZimyV8pt16UX7FGZ', 'name': 'Afrodisaco', 'type': 'album', 'rlsMonth': 'Feb', 'rlsYear': '@2003', 'track': ['4G3PTss3mU33Tau7t4KbwE']}
+{'id': '7K4OAa7SgfI1MNDQL2s7nF', 'name': 'Color Esperanza 2020', 'type': 'single', 'rlsMonth': 'Dec', 'rlsYear': '@2011', 'track': ['3eSJmGWqoBRx5wbFCtvPtz']}
+{'id': '3U2rLgDdyrN3W1UXLW8Y7O', 'name': 'De Adentro Pa Afuera', 'type': 'album', 'rlsMonth': 'Feb', 'rlsYear': '@2001', 'track': ['4v7riPZWyAclrOfUSwD0zp', '6i28Cxd4CUiHmcowzQW38w', '0wIIVkpeRLjoGAYkeYXevR']}
+{'id': '3NHgAgmP9awoTUVYZxfINe', 'name': 'El Mismo Aire con Pablo Alborn', 'type': 'single', 'rlsMonth': 'Apr', 'rlsYear': '@2020', 'track': ['5EbtodsuLbxrFDH6j5avVS']}
+{'id': '1Pegz8anzr4Pksz79oMPEa', 'name': 'KESI Remix', 'type': 'single', 'rlsMonth': 'Aug', 'rlsYear': '@2020', 'track': ['0IqCoZ168iRc9LqfrYgpZy']}
+{'id': '8VkJxvOLFUwnRC436oSZMo', 'name': 'Para Aventuras y Curiosidades', 'type': 'album', 'rlsMonth': 'Apr', 'rlsYear': '@2010', 'track': ['56f5qnyAlZdlz8wrUDA50h']}
+{'id': '9XrXhTdRAEgBMsLZzP9Q8K', 'name': 'Por Primera Vez', 'type': 'album', 'rlsMonth': 'Nov', 'rlsYear': '@2015', 'track': ['63Zaf8Rci6eOUPqDQ4fUFx']}
+{'id': '3KbStKGIw0Te4WwE9OZpGw', 'name': 'Si Me Dices Que S', 'type': 'single', 'rlsMonth': 'May', 'rlsYear': '@2003', 'track': ['56Ta1O7Jxxpjnc6cWdDKUo']}
+{'id': '7LEg6lzL9CC0sbAVUboAdu', 'name': 'Exclusive Expanded Edition', 'type': 'album', 'rlsMonth': 'Feb', 'rlsYear': '@2018', 'track': ['5Lgcn7u07bHuqbOtXkN62u']}
+{'id': '4Ci4gU0cnImr3aghGEBpVD', 'name': 'FAME Expanded Edition', 'type': 'album', 'rlsMonth': 'Jun', 'rlsYear': '@2000', 'track': ['2xRGPubKBTHX6iyrpQvtCy']}
+{'id': '4MFoBgHDWKAAdRgm8JevNX', 'name': 'Forever', 'type': 'single', 'rlsMonth': 'Sep', 'rlsYear': '@2003', 'track': ['3NZJlJemX3mzjf56MqC5ML']}
+{'id': '1BfHpHD1FvUZh4GQ4SywSt', 'name': 'Indigo', 'type': 'album', 'rlsMonth': 'May', 'rlsYear': '@2013', 'track': ['6XHVuErjQ4XNm6nDPVCxVX']}
+{'id': '7X7XMOczyBNu6AirXiUV5H', 'name': 'Indigo Extended', 'type': 'album', 'rlsMonth': 'Mar', 'rlsYear': '@2000', 'track': ['5IgjP7X4th6nMNDh4akUHb']}
+{'id': '3BmIE93zdHX0Sh6Hu1zOBD', 'name': 'Monalisa', 'type': 'single', 'rlsMonth': 'Aug', 'rlsYear': '@2020', 'track': ['3baPniPXS0iEII8rDUJdYP']}
+{'id': '2JTz4SWlXsstXegGGHgDKw', 'name': 'Nostlgico', 'type': 'single', 'rlsMonth': 'Jun', 'rlsYear': '@2012', 'track': ['2BEcap3xJtmiPaHKyfQi4e']}
+{'id': '9Cgkb1FoLT1Z7Mfh9PNZy3', 'name': 'Slime  B', 'type': 'album', 'rlsMonth': 'Feb', 'rlsYear': '@2010', 'track': ['1IIKrJVP1C9N7iPtG6eOsK']}
+{'id': '8SIdgouhSrUPruE2rPFSFn', 'name': 'Under The Influence', 'type': 'single', 'rlsMonth': 'Jun', 'rlsYear': '@2009', 'track': ['71mHO4fFmS2Xu5XxZbcRND']}
+{'id': '1NGFGNgvs1b5HxUWp0BFmv', 'name': 'A Head Full of Dreams', 'type': 'album', 'rlsMonth': 'Dec', 'rlsYear': '@2014', 'track': ['3RiPr603aXAoi4GHyXx0uy']}
+{'id': '3IDkxFogdclFB4ahcWRExn', 'name': 'A Rush of Blood to the Head', 'type': 'album', 'rlsMonth': 'Nov', 'rlsYear': '@2003', 'track': ['75JFxkI2RXiU7L9VXzMkle']}
+{'id': '8XpLp39YOzJ1bnu0k1wGfg', 'name': 'Ghost Stories', 'type': 'album', 'rlsMonth': 'Sep', 'rlsYear': '@2001', 'track': ['0FDzzruyVECATHXKHFs9eJ']}
+{'id': '8QRkFR33qwpYUfbFRDsfJs', 'name': 'MemoriesDo Not Open', 'type': 'album', 'rlsMonth': 'Dec', 'rlsYear': '@2017', 'track': ['6RUKPb4LETWmmr3iAEQktW']}
+{'id': '2OIhnPlH34FZpMvC0GqFgG', 'name': 'Music Of The Spheres', 'type': 'album', 'rlsMonth': 'May', 'rlsYear': '@2000', 'track': ['46HNZY1i7O6jwTA7Slo2PI']}
+{'id': '5W95WLDfOJn2E7LZRLa4x2', 'name': 'Mylo Xyloto', 'type': 'album', 'rlsMonth': 'Jul', 'rlsYear': '@2009', 'track': ['6nek1Nin9q48AVZcWs9e9D']}
+{'id': '0G3WAJnINbldKctpLcQS6o', 'name': 'Parachutes', 'type': 'album', 'rlsMonth': 'Feb', 'rlsYear': '@2021', 'track': ['3AJwUDP919kvQ9QcozQPxg', '7D0RhFcb3CrfPuTJ0obrod']}
+{'id': '9GaFEgs7594gXFpTmadM1r', 'name': 'Viva La Vida or Death and All His Friends', 'type': 'album', 'rlsMonth': 'Jul', 'rlsYear': '@2017', 'track': ['1mea3bSkSGXuIRvnydlB5b']}
+{'id': '6P2vMl3p0g50Gz5JDcL6eX', 'name': 'XY', 'type': 'album', 'rlsMonth': 'Jun', 'rlsYear': '@2010', 'track': ['7LVHVU3tWfcxj5aiPFEW4Q']}
+{'id': '4VRVgoJn1Yp2hECil7n28M', 'name': 'Barrio Fino Bonus Track Version', 'type': 'album', 'rlsMonth': 'Jul', 'rlsYear': '@2009', 'track': ['228BxWXUYQPJrJYHDLOHkj', '26QKsGW4hMuwiEE1ftUMHe', '2FNqnsX74ZlwduUAcnmzee']}
+{'id': '7CmYctrYtrTI4ObWmJhH3E', 'name': 'Con Calma', 'type': 'single', 'rlsMonth': 'Aug', 'rlsYear': '@2005', 'track': ['5w9c2J52mkdntKOmRLeM2m']}
+{'id': '1LXClgH5tr2Go3uX2ky6PO', 'name': 'El Cartel The Big Boss', 'type': 'album', 'rlsMonth': 'Sep', 'rlsYear': '@2008', 'track': ['7fGODUqa0gtkb72oBVCgCD']}
+{'id': '5WDkEf59neFKJR1tEPU5S0', 'name': 'LEGENDADDY', 'type': 'album', 'rlsMonth': 'May', 'rlsYear': '@2008', 'track': ['48AJSd42lXpicsGqcgopof', '5Pg4qYTcvCUBBq3jBhKq0t']}
+{'id': '9LVJoJgV4YkCfUHgLmTEGF', 'name': 'Talento de Barrio', 'type': 'album', 'rlsMonth': 'Oct', 'rlsYear': '@2004', 'track': ['2jnZUvhw2LTvDI6YidRVcO']}
+{'id': '4YOa1u4geST8Ru3wHYZDI8', 'name': 'ULALA OOH LA LA', 'type': 'single', 'rlsMonth': 'Dec', 'rlsYear': '@2021', 'track': ['4EQOGfssbSpTlV6EZRtrSv']}
+{'id': '3YT9nIyfcR4ZCW2WOgloGR', 'name': 'VIDA', 'type': 'album', 'rlsMonth': 'Jul', 'rlsYear': '@2019', 'track': ['6habFhsOp2NvshLv26DqMb']}
+{'id': '6JoDIDdRBigqvqAtPVCHcE', 'name': 'YHLQMDLG', 'type': 'album', 'rlsMonth': 'May', 'rlsYear': '@2006', 'track': ['69vlMrzHwATKzupwNcUPyK']}
+{'id': '1FXm16QyvlS4xKp7IwxqRE', 'name': 'Discovery', 'type': 'album', 'rlsMonth': 'Jan', 'rlsYear': '@2015', 'track': ['0DiWol3AO6WpXZgp0goxAV', '5W3cjX2J3tjhG8zb6u0qHn', '1NeLwFETswx8Fzxl2AFl91', '2LD2gT7gwAurzdQDQtILds', '2VEZx7NWsZ1D0eJ4uv5Fym']}
+{'id': '7MiahxWhUDOVZ5OpM08NSa', 'name': 'Get Lucky feat Pharrell Williams  Nile Rodgers Radio Edit', 'type': 'single', 'rlsMonth': 'Feb', 'rlsYear': '@2000', 'track': ['2Foc5Q5nqNiosCNqttzHof']}
+{'id': '5DvZwSUzQnpEoAvCOohqUP', 'name': 'Homework', 'type': 'album', 'rlsMonth': 'Nov', 'rlsYear': '@2001', 'track': ['1pKYYY0dkg23sQQXi0Q5zN']}
+{'id': '7CUtp6x7O4K2SqOFASQdRp', 'name': 'Random Access Memories', 'type': 'album', 'rlsMonth': 'Nov', 'rlsYear': '@2010', 'track': ['2cGxRwrMyEAp8dEbuZaVv6', '69kOkLUCkxIZYexIgSG8rq', '5CMjjywI0eZMixPeqNd75R']}
+{'id': '1WecOJVv1GLLZJzm8WzsEd', 'name': 'Das Geheimnis der Geisterinsel', 'type': 'album', 'rlsMonth': 'Jun', 'rlsYear': '@2001', 'track': ['7tb8nir1Wd25emgErIiKkt', '38DiGBjKQdeDmE7CqLo8jL', '2LYxeQ7gSg5AyqjcEt0UG9', '0DjEoVRlUV3mopYyeQnaTH', '29y51auVbI2hhmsq3adsht', '40QP3t1yIGmzgijNoAVRui', '3dcmXGYB73WOSanK4B0V2c', '5jmtr79DRqaEcWZA9OFPCU', '0JoDJblRIkMNqUtJGp2fXH', '4Ume0fW73wXZC739aRxs2i']}
+{'id': '7ZPcYEbz7S8xKGTDrSTz3b', 'name': 'All I Want From High School Musical The Musical The Series', 'type': 'single', 'rlsMonth': 'Nov', 'rlsYear': '@2018', 'track': ['4Yxc55NX3tAXC2mHRAhtcW']}
+{'id': '4VatXUuim9xM2ehToaQC1v', 'name': 'Beauty And The Beast Special Edition', 'type': 'compilation', 'rlsMonth': 'Mar', 'rlsYear': '@2009', 'track': ['2F8LPJgSVTJxukoParTyBD']}
+{'id': '4OUKdeHHsqBThGEawCEoCS', 'name': 'Descendants Original TV Movie Soundtrack', 'type': 'compilation', 'rlsMonth': 'Sep', 'rlsYear': '@2015', 'track': ['1mRBJdpIgc3jZH8C3cN2WV']}
+{'id': '8S57Lh9mrCV5Ql2qel3Yxg', 'name': 'Hercules Original Motion Picture Soundtrack', 'type': 'compilation', 'rlsMonth': 'Dec', 'rlsYear': '@2012', 'track': ['4zDfgax6Ihb0UWdour1ZEs', '0PKmDncVOiNQLO6D1P6PXi']}
+{'id': '4Tbr4Szib9zqz4iEcgdiFK', 'name': 'High School Musical 2 Original Soundtrack', 'type': 'compilation', 'rlsMonth': 'Aug', 'rlsYear': '@2004', 'track': ['5rWIO1uP0GwAoU45RTBJ2F']}
+{'id': '9FuRqybA8da4mqAxTRP0ng', 'name': 'Mulan Original Soundtrack', 'type': 'compilation', 'rlsMonth': 'Mar', 'rlsYear': '@2017', 'track': ['28UMEtwyUUy5u0UWOVHwiI']}
+{'id': '1JidGO2BScrGzLDn6XaM9W', 'name': 'The Little Mermaid Special Edition', 'type': 'album', 'rlsMonth': 'Jul', 'rlsYear': '@2008', 'track': ['7tUSJY4nsDBJTjd1UXKRsT', '6oYkwjI1TKP9D0Y9II1GT7']}
+{'id': '1F4AbTIOehPOUvXgrTdBdK', 'name': 'Walt Disney Records The Legacy Collection Aladdin', 'type': 'album', 'rlsMonth': 'Jun', 'rlsYear': '@2000', 'track': ['0k7Shopj669EbywEjsqoqm']}
+{'id': '9QUftJBsha1Dyk9awFSgAo', 'name': 'B4 The Storm', 'type': 'album', 'rlsMonth': 'Jun', 'rlsYear': '@2012', 'track': ['7hxHWCCAIIxFLCzvDgnQHX']}
+{'id': '5CAutWSApRegnUGWLGNB4g', 'name': 'Do It Right', 'type': 'single', 'rlsMonth': 'Sep', 'rlsYear': '@2007', 'track': ['4ZevD501qZiFK7FY8DFn0V']}
+{'id': '7GByv592Nrv1qV2NMOF76A', 'name': 'Heaven Or Hell', 'type': 'album', 'rlsMonth': 'May', 'rlsYear': '@2007', 'track': ['7AzlLxHn24DxjgQX73F9fU', '527k23H0A4Q0UJN3vGs0Da', '0Li1OuXXfi7950ilZUFGkF']}
+{'id': '5U72d9HmSbeudg259ttsqL', 'name': 'Honest', 'type': 'single', 'rlsMonth': 'May', 'rlsYear': '@2000', 'track': ['2KdKh9vHbKW0tZLqtpxxI0']}
+{'id': '6KPHPMRGKDGyzveGsJsAX5', 'name': 'Its Almost Dry', 'type': 'album', 'rlsMonth': 'Aug', 'rlsYear': '@2015', 'track': ['1dp8aQANyTRKssDeAYPiZe']}
+{'id': '7WiLTk8r2E8LagksgMmdQC', 'name': 'Life of a DON', 'type': 'album', 'rlsMonth': 'Jun', 'rlsYear': '@2007', 'track': ['0IX5OFffosy8wk16m1IFCa']}
+{'id': '5HDZ3FuSakCbsdTBBWgySg', 'name': 'SOS', 'type': 'album', 'rlsMonth': 'Jan', 'rlsYear': '@2001', 'track': ['4NqkE7kRUvMDEdcqD96EDO']}
+{'id': '9K8Nz86xHtQBM5aMdPZDbA', 'name': 'Studying Abroad Extended Stay', 'type': 'album', 'rlsMonth': 'Aug', 'rlsYear': '@2015', 'track': ['0bkTdkWwGk3OGFX0afD3Wj']}
+{'id': '8HlAAd8qEfPK84mEz4bY7Z', 'name': 'Elton John', 'type': 'album', 'rlsMonth': 'Oct', 'rlsYear': '@2002', 'track': ['38zsOOcu31XbbYj9BIPUF1']}
+{'id': '3ZZ02feoR9doUV87eBIdTU', 'name': 'Goodbye Yellow Brick Road 40th Anniversary Celebration  Super Deluxe', 'type': 'album', 'rlsMonth': 'Jan', 'rlsYear': '@2004', 'track': ['6sBWmE23q6xQHlnEZ8jYPT']}
+{'id': '7Y5vW5Y9ZTfVPXVtH4kyUK', 'name': 'Goodbye Yellow Brick Road Remastered', 'type': 'album', 'rlsMonth': 'May', 'rlsYear': '@2006', 'track': ['4IRHwIZHzlHT1FQpRa5RdE']}
+{'id': '7Etg18tO2chYdFfoEC4qZY', 'name': 'Honky Chateau', 'type': 'album', 'rlsMonth': 'Nov', 'rlsYear': '@2005', 'track': ['3gdewACMIVMEWVbyb8O9sY']}
+{'id': '9HMSquDpPZOMHg11wDO3i5', 'name': 'Madman Across The Water', 'type': 'album', 'rlsMonth': 'Jan', 'rlsYear': '@2018', 'track': ['2TVxnKdb3tqe1nhQWwwZCO']}
+{'id': '5KSOdOVLiDgWgligKg38og', 'name': 'Merry Christmas', 'type': 'single', 'rlsMonth': 'Mar', 'rlsYear': '@2011', 'track': ['3bH2Eu9A9ymI4UnGHRmoXg', '0bYg9bo50gSsH3LtXe2SQn', '3PIDciSFdrQxSQSihim3hN', '3B7FO3kJ5kv3mX7yiaB7sT']}
+{'id': '9N07l2AUS1D5FvMT5VilGE', 'name': 'Rock Of The Westies', 'type': 'album', 'rlsMonth': 'Aug', 'rlsYear': '@2017', 'track': ['7HW5WIw7ZgZORCzUxv5gW5']}
+{'id': '5S4ahsY7LHgF7w6Ei1qIDt', 'name': 'Too Low For Zero', 'type': 'album', 'rlsMonth': 'Jan', 'rlsYear': '@2010', 'track': ['1jDJFeK9x3OZboIAHsY9k2']}
+{'id': '5RcgO2q8posfMV2wydVRxB', 'name': 'Blue Hawaii', 'type': 'album', 'rlsMonth': 'Jul', 'rlsYear': '@2008', 'track': ['44AyOl4qVkzS48vBsbNXaC']}
+{'id': '8UHUiONNaHULLKpNUvgfLh', 'name': 'Elvis Fool', 'type': 'album', 'rlsMonth': 'May', 'rlsYear': '@2014', 'track': ['7zMUCLm1TN9o9JlLISztxO', '1B5Tp2Ml9nLlmTSJx8xVfI']}
+{'id': '5POfOm6zKZgmZI7OCKGgJL', 'name': 'ELVIS Original Motion Picture Soundtrack', 'type': 'album', 'rlsMonth': 'Jan', 'rlsYear': '@2021', 'track': ['3C6pSIVeBKIbSpCFtaw1r8']}
+{'id': '6B70KDyuby4JipAcAtll3V', 'name': 'Elvis 30 1 Hits Expanded Edition', 'type': 'album', 'rlsMonth': 'Nov', 'rlsYear': '@2019', 'track': ['1GEGKdhnYoQYZ2cvbo5XPM']}
+{'id': '6SsK39WchdRtaY5PIo5Tvf', 'name': 'Elvis Christmas Album', 'type': 'album', 'rlsMonth': 'Apr', 'rlsYear': '@2020', 'track': ['3QiAAp20rPC3dcAtKtMaqQ', '7n7VsX3sv66znBwA8b5uhp']}
+{'id': '1GgsNZXWDH9NetRhODy1I9', 'name': 'From Elvis in Memphis', 'type': 'album', 'rlsMonth': 'Mar', 'rlsYear': '@2009', 'track': ['1H5IfYyIIAlgDX8zguUzns', '7KWoeBqSdZHEloYKVxssfG']}
+{'id': '4CrGBce1rci2fzepCkSGVQ', 'name': 'Platinum  A Life In Music', 'type': 'album', 'rlsMonth': 'Jul', 'rlsYear': '@2011', 'track': ['452KBpASS5lZLeJWX9Ixub']}
+{'id': '4WuNtor0gb2NbVYw3OtDx4', 'name': 'Encore Deluxe Version', 'type': 'album', 'rlsMonth': 'Jun', 'rlsYear': '@2009', 'track': ['561jH07mF1jHuk7KlaeF0s']}
+{'id': '2RDiqH71DC6G5GoxcqTenM', 'name': 'Music To Be Murdered By', 'type': 'album', 'rlsMonth': 'May', 'rlsYear': '@2003', 'track': ['7FIWs0pqAYbP91WWM0vlTQ']}
+{'id': '9A3KzDlaVfDpERI7UDNImo', 'name': 'Recovery', 'type': 'album', 'rlsMonth': 'Jul', 'rlsYear': '@2015', 'track': ['15JINEqzVMv3SvJTAXAKED', '7Ie9W94M7OjPoZVV216Xus']}
+{'id': '2RKkrksDiSsCrMr8xzpXaQ', 'name': 'The Eminem Show', 'type': 'album', 'rlsMonth': 'Oct', 'rlsYear': '@2001', 'track': ['7lQ8MOhq6IN2w8EYcFNSUk', '4woTEX1wYOTGDqNXuavlRC', '4xkOaSrkexMciUUogZKVTS', '3CpoeW0cZSDzIRv5z34F87']}
+{'id': '2P9cVnBaVNYUS5s55S18i7', 'name': 'The Marshall Mathers LP', 'type': 'album', 'rlsMonth': 'Mar', 'rlsYear': '@2012', 'track': ['3yfqSUWxFvZELEM4PmlwIR', '3UmaczJpikHgJFyBTAJVoz']}
+{'id': '6MEI4WiZRhhpPuFqUl7M4S', 'name': 'Diles', 'type': 'single', 'rlsMonth': 'May', 'rlsYear': '@2006', 'track': ['6C1RD7YQVvt3YQj0CmuTeu']}
+{'id': '1Lsh6q0rCkwzRClJdWppRT', 'name': 'Fantasias', 'type': 'single', 'rlsMonth': 'Sep', 'rlsYear': '@2021', 'track': ['6mAN61JH0dzyZpWslS11jy']}
+{'id': '5SlFCTW160ASWfM9C3QRxa', 'name': 'Farruko Presents Los Menores', 'type': 'album', 'rlsMonth': 'Dec', 'rlsYear': '@2004', 'track': ['2QAwkI8L0UVBpjHJ6PwBzn']}
+{'id': '1UCx1sF7gPm0Kdev3ULNNF', 'name': 'La 167', 'type': 'album', 'rlsMonth': 'Nov', 'rlsYear': '@2000', 'track': ['2B4GHvToeLTOBB4QLzW3Ni']}
+{'id': '4LEhYQrmv9Bvrt040Ta5Ou', 'name': 'MUNAY', 'type': 'album', 'rlsMonth': 'Feb', 'rlsYear': '@2013', 'track': ['4U0JLGFHJpEnDS5w8F7ngE']}
+{'id': '3OeDpnBSk2XwnA5A0mW87W', 'name': 'Quejos de un Maleante', 'type': 'album', 'rlsMonth': 'May', 'rlsYear': '@2006', 'track': ['17BqQS5Cj899fQR8e6gvk9']}
+{'id': '2JLmiB1vnKQNvGnnulE5vz', 'name': 'Si Se da Remix', 'type': 'single', 'rlsMonth': 'Feb', 'rlsYear': '@2017', 'track': ['6K5BsR04ijf3FHNzjbaagD']}
+{'id': '1HgW6Ligd8HweoC0agH6Hs', 'name': 'World Of Walker', 'type': 'album', 'rlsMonth': 'Mar', 'rlsYear': '@2004', 'track': ['3BomnHfqKZCdPJC9bkGBjE']}
+{'id': '4UnnseBOlVg8RV2v9ZA2lE', 'name': 'Fleetwood Mac', 'type': 'album', 'rlsMonth': 'Dec', 'rlsYear': '@2016', 'track': ['5ihS6UUlyQAfmp48eSkxuQ', '05oETzWbd4SI33qK2gbJfR']}
+{'id': '0HdOrXew7H6J5JHvQWg7cY', 'name': 'Rumours', 'type': 'album', 'rlsMonth': 'Nov', 'rlsYear': '@2009', 'track': ['07GvNcU1WdyZJq3XxP0kZa', '4bEb3KE4mSKlTFjtWJQBqO']}
+{'id': '8M3v3uWWEvlyBOJZMOQBBL', 'name': 'Rumours Super Deluxe', 'type': 'album', 'rlsMonth': 'Sep', 'rlsYear': '@2016', 'track': ['0ofHAoxe9vBkTCp2UQIavz', '5e9TFTbltYBg2xThimr0rU', '19Shlms2uTnOjIUg50TXzd']}
+{'id': '5Ec2qlEu2cmfHwpkAhRJg2', 'name': 'Tango In the Night Deluxe Edition', 'type': 'album', 'rlsMonth': 'Jan', 'rlsYear': '@2018', 'track': ['254bXAqt3zP6P50BdQvEsq', '4CoSCPlKNrWli7E5kFtbcl']}
+{'id': '5JsAEBkamCr3ztHYnZNS0S', 'name': 'A Jolly Christmas From Frank Sinatra', 'type': 'album', 'rlsMonth': 'Apr', 'rlsYear': '@2013', 'track': ['2FPfeYlrbSBR8PwCU0zaqq', '4HEOgBHRCExyYVeTyrXsnL', '5yNgdD8E6WruhULb4n2Con']}
+{'id': '8UtbGtXsZDJ0wSDDRHOCWG', 'name': 'Christmas Songs by Sinatra', 'type': 'album', 'rlsMonth': 'Mar', 'rlsYear': '@2000', 'track': ['4kKdvXD0ez7jp1296JmAts', '6YeDjSHCDmJKgU8foiaruL']}
+{'id': '8ESToFMyv3drJK5YVVVgvk', 'name': 'My Way Expanded Edition', 'type': 'album', 'rlsMonth': 'Apr', 'rlsYear': '@2005', 'track': ['3spdoTYpuCpmq19tuD0bOe']}
+{'id': '3EFFLdVUWqmFtLcKWPCl7s', 'name': 'SinatraBasie The Complete Reprise Studio Recordings', 'type': 'album', 'rlsMonth': 'Feb', 'rlsYear': '@2016', 'track': ['5b7OgznPJJr1vHNYGyvxau']}
+{'id': '2Mz7qNGWgEh1QEEY6mkp3C', 'name': 'Strangers In The Night Expanded Edition', 'type': 'album', 'rlsMonth': 'May', 'rlsYear': '@2000', 'track': ['74VR3AkGPhbYXnxcOYa16x']}
+{'id': '3TpUVX9l83V6m5xzO5Bg4C', 'name': 'Thats Life', 'type': 'album', 'rlsMonth': 'Apr', 'rlsYear': '@2009', 'track': ['4FmCUATNIarCQh72JYdvnm']}
+{'id': '6JAGxTcB8mfll1cgfYfIWQ', 'name': 'The World We Knew', 'type': 'album', 'rlsMonth': 'Aug', 'rlsYear': '@2017', 'track': ['4feXcsElKIVsGwkbnTHAfV']}
+{'id': '5GusyBW98ZNJBakvmCOz47', 'name': 'Cracker Island feat Thundercat', 'type': 'single', 'rlsMonth': 'Sep', 'rlsYear': '@2017', 'track': ['2W3ZpQg9i6lE6kmHbcdu9N']}
+{'id': '3Ip0pB6BDf9A5JVCF4XTYo', 'name': 'Demon Days', 'type': 'album', 'rlsMonth': 'Apr', 'rlsYear': '@2021', 'track': ['0d28khcov6AiegSCpG5TuT', '4Hff1IjRbLGeLgFgxvHflk', '2bfGNzdiRa1jXZRdfssSzR']}
+{'id': '6WinHbUSY4BFPGJdHw4Exo', 'name': 'Gorillaz', 'type': 'album', 'rlsMonth': 'Sep', 'rlsYear': '@2012', 'track': ['7yMiX7n9SBvadzox8T5jzT']}
+{'id': '4EFhL2c10dxLtw1JQqNIBL', 'name': 'Humanz Deluxe', 'type': 'album', 'rlsMonth': 'Mar', 'rlsYear': '@2002', 'track': ['3lIxtCaROdRDuTnNBDm3n2']}
+{'id': '8PrU0t0Lic1Fb88imz5EDI', 'name': 'New Gold feat Tame Impala and Bootie Brown', 'type': 'single', 'rlsMonth': 'Mar', 'rlsYear': '@2006', 'track': ['64dLd6rVqDLtkXFYrEUHIU']}
+{'id': '7KLYU2aLOlNElFQSgeGdTt', 'name': 'New Gold feat Tame Impala and Bootie Brown Dom Dolla Remix', 'type': 'single', 'rlsMonth': 'Dec', 'rlsYear': '@2006', 'track': ['2c3KCGq6UojB2c8UAFrRON']}
+{'id': '2QqnVbmgaOMfVshS09MQJn', 'name': 'Plastic Beach', 'type': 'album', 'rlsMonth': 'Apr', 'rlsYear': '@2017', 'track': ['1foMv2HQwfQ2vntFf9HFeG', '0q6LuUqGLUiCPP1cbdwFs3']}
+{'id': '5SEZFiKPLqz2S9a8oIqCu8', 'name': '044400', 'type': 'album', 'rlsMonth': 'Dec', 'rlsYear': '@2014', 'track': ['1gT5TGwbkkkUliNzHRIGi1']}
+{'id': '2BXpJErzXklzeixXvc1vnU', 'name': 'Numb  Encore MTV Ultimate MashUps Presents Collision Course', 'type': 'single', 'rlsMonth': 'Jul', 'rlsYear': '@2005', 'track': ['5sNESr6pQfIhL3krM8CtZn']}
+{'id': '5Gy4JBJ2cxNbvzP7iFory2', 'name': 'The Blueprint 2 The Gift  The Curse', 'type': 'album', 'rlsMonth': 'Apr', 'rlsYear': '@2012', 'track': ['5ljCWsDlSyJ41kwqym2ORw']}
+{'id': '4SXi9mdV6y0OAL3s8JJvg3', 'name': 'The Blueprint 3', 'type': 'album', 'rlsMonth': 'Apr', 'rlsYear': '@2009', 'track': ['2igwFfvr1OAGX9SKDCPBwO', '7LR85XLWw2yXqKBSI5brbG']}
+{'id': '6SrpLhF04nrCfg8F4ocLCC', 'name': 'Watch The Throne Deluxe', 'type': 'album', 'rlsMonth': 'Oct', 'rlsYear': '@2002', 'track': ['4Li2WHPkuyCdtmokzW2007', '3Osd3Yf8K73aj4ySn6LrvK', '6vegnfDS8DAEaCqWaPYGPy', '5Pt83OUaK3K9C2if4C5JOk']}
+{'id': '0EtodSiQO10nArgL9lcpVt', 'name': '808s  Heartbreak', 'type': 'album', 'rlsMonth': 'May', 'rlsYear': '@2008', 'track': ['4EWCNWgDS8707fNSZ1oaA5']}
+{'id': '1UHLEhs2PcLDA5aV5e3tzE', 'name': 'Graduation', 'type': 'album', 'rlsMonth': 'Aug', 'rlsYear': '@2017', 'track': ['5TRPicyLGbAF2LGBFbHGvO', '0j2T0R9dR9qdJYsB7ciXhf', '7rbECVPkY5UODxoOUVKZnA', '4iz9lGMjU1lXS51oPmUmTe']}
+{'id': '1N4vG8VpUtDTgvQcdERvsO', 'name': 'Late Registration', 'type': 'album', 'rlsMonth': 'Jul', 'rlsYear': '@2003', 'track': ['1PS1QMdUqOal0ai3Gt7sDQ']}
+{'id': '9FzYeqZo13fkB9idaFNLc6', 'name': 'The Life Of Pablo', 'type': 'album', 'rlsMonth': 'Mar', 'rlsYear': '@2011', 'track': ['4KW1lqgSr8TKrvBII0Brf8']}
+{'id': '5IdUwGgxsSRFbrBmNFSbua', 'name': 'ye', 'type': 'album', 'rlsMonth': 'May', 'rlsYear': '@2014', 'track': ['3s7MCdXyWmwjdcWh7GWXas']}
+{'id': '5IySnRNKwmGQBXNQ3vgyPv', 'name': 'Yeezus', 'type': 'album', 'rlsMonth': 'Aug', 'rlsYear': '@2009', 'track': ['3sNVsP50132BTNlImLx70i']}
+{'id': '5CK34FLGgkHNMEnkVZn9WD', 'name': 'American Teen', 'type': 'album', 'rlsMonth': 'Jan', 'rlsYear': '@2010', 'track': ['5Z3GHaZ6ec9bsiI5BenrbY', '152lZdxL1OR0ZMW6KquMif', '5bgwqaRSS3M8WHWruHgSL5']}
+{'id': '6ZoZI5cqXdKxSyXgApoXts', 'name': 'FRIENDS KEEP SECRETS', 'type': 'album', 'rlsMonth': 'Sep', 'rlsYear': '@2006', 'track': ['7FGq80cy8juXBCD2nrqdWU']}
+{'id': '8LqqSR7XWJOB4qGkgL3PPp', 'name': 'Love Lies with Normani', 'type': 'single', 'rlsMonth': 'Dec', 'rlsYear': '@2010', 'track': ['45Egmo7icyopuzJN0oMEdk']}
+{'id': '6DpgRPUL6Ho2eOvsWnoUu9', 'name': 'lovely with Khalid', 'type': 'single', 'rlsMonth': 'Apr', 'rlsYear': '@2011', 'track': ['0u2P5u6lvoDfwTYjAADbn4']}
+{'id': '0B5oPWDxAOKmAuRHAgea2l', 'name': 'No6 Collaborations Project', 'type': 'album', 'rlsMonth': 'May', 'rlsYear': '@2008', 'track': ['70eFcWOvlMObDhURTqT4Fv']}
+{'id': '1NKJJAI3JgzQTqGeOI3Ue9', 'name': 'Numb', 'type': 'single', 'rlsMonth': 'Apr', 'rlsYear': '@2010', 'track': ['10xV5l9nhLvFpR8mqzs0bL']}
+{'id': '1TlBskTehFXy7IVHkxl3Y2', 'name': 'Silence', 'type': 'single', 'rlsMonth': 'Feb', 'rlsYear': '@2001', 'track': ['7vGuf3Y35N4wmASOKLUVVU']}
+{'id': '5LruOxSdGG1Mp8Apgx2qmh', 'name': 'Suncity', 'type': 'album', 'rlsMonth': 'Jun', 'rlsYear': '@2001', 'track': ['6zeeWid2sgw4lap2jV61PZ']}
+{'id': '7QHJzN88YERi11tMO3WV5R', 'name': 'I Am Not A Human Being', 'type': 'album', 'rlsMonth': 'Jun', 'rlsYear': '@2012', 'track': ['1kMuU3TNQvHbqvXCWBodmP']}
+{'id': '9F7NNq0KN4HKKMRkOuSgNc', 'name': 'I Am Not A Human Being II Deluxe', 'type': 'album', 'rlsMonth': 'Feb', 'rlsYear': '@2005', 'track': ['2XHzzp1j4IfTNp1FTn7YFg']}
+{'id': '3XZCiTOe0cp31P0wUdYRns', 'name': 'mainstream sellout', 'type': 'album', 'rlsMonth': 'Jan', 'rlsYear': '@2009', 'track': ['1T4tQ4SSagbhAKpvcWg035', '25wdC7CJmCJPgnKw9rYquJ', '50eJOxJiGmJ7PBZaTKpje1']}
+{'id': '1QVF6Uf1UDT8FSeSEON6d3', 'name': 'Relapse Refill', 'type': 'album', 'rlsMonth': 'Mar', 'rlsYear': '@2005', 'track': ['5UsLjwBaTHBX4ektWIr4XX']}
+{'id': '0JbfRa9JB0WdcSGhyoX2Dz', 'name': 'SpiderMan Into the SpiderVerse Soundtrack From  Inspired by the Motion Picture', 'type': 'compilation', 'rlsMonth': 'Aug', 'rlsYear': '@2011', 'track': ['3vWzyGTu6Ovo1GdrcJqH6e']}
+{'id': '8WOrKwO55da6VYlkhP8R08', 'name': 'Sucker for Pain with Logic  Ty Dolla ign feat X Ambassadors', 'type': 'single', 'rlsMonth': 'Jul', 'rlsYear': '@2008', 'track': ['4dASQiO1Eoo3RJvt74FtXB']}
+{'id': '8UXTyOV0hRTJEx674sPxZa', 'name': 'Tha Carter III MTV Bonus Version', 'type': 'album', 'rlsMonth': 'Jan', 'rlsYear': '@2018', 'track': ['1pm7lQGl6mvKWDxesZTVFp', '1xPW9rS8dkuJP46WBTqU2C']}
+{'id': '9ZyieIgRJrhJIqfbmBV8K2', 'name': 'Tha Carter IV Complete Edition', 'type': 'album', 'rlsMonth': 'Apr', 'rlsYear': '@2005', 'track': ['5hUYsaOyMY32yjRXeuQwGj', '5Qy6a5KzM4XlRxsNcGYhgH']}
+{'id': '8Slim1QA0ohxCFOscbZzZ8', 'name': 'Hybrid Theory Bonus Edition', 'type': 'album', 'rlsMonth': 'Apr', 'rlsYear': '@2002', 'track': ['60a0Rd6pjrkxjPbaKzXjfq', '3K4HG9evC7dg3N0R9cYqk4', '1Vej0qeQ3ioKwpI6FUbRv1', '57BrRMwf9LrcmuOsyGilwr']}
+{'id': '0J1kNgkWnGlypNZD87ZwmW', 'name': 'LIVING THINGS', 'type': 'album', 'rlsMonth': 'Mar', 'rlsYear': '@2002', 'track': ['7oVEtyuv9NBmnytsCIsY5I']}
+{'id': '1KsWzW5fdYpXS0L79CZwiI', 'name': 'Meteora', 'type': 'album', 'rlsMonth': 'Aug', 'rlsYear': '@2002', 'track': ['2nLtzopw4rPReszdYBJU6h', '4Yf5bqU3NK4kNOypcrLYwU']}
+{'id': '6FQv9X3Ik2xzesh4Jxexsc', 'name': 'Minutes to Midnight', 'type': 'album', 'rlsMonth': 'Jun', 'rlsYear': '@2005', 'track': ['18lR4BzEs7e3qzc0KVkTpU', '0UFDKFqW2oGspYeYqo9wjA']}
+{'id': '2VHCHiQoL28maxA6hN7vku', 'name': '20 Aos', 'type': 'album', 'rlsMonth': 'Oct', 'rlsYear': '@2016', 'track': ['27XboT5Wb8VOn7A0heo3Ei']}
+{'id': '8EdLKpLCwGi0tK0HRYYhxu', 'name': 'Aries', 'type': 'album', 'rlsMonth': 'Oct', 'rlsYear': '@2021', 'track': ['6vPAmoERUMRoTZaCCSWQ12']}
+{'id': '8TwrCSMocy1yXsA70Ccwiz', 'name': 'Busca Una Mujer', 'type': 'album', 'rlsMonth': 'Nov', 'rlsYear': '@2002', 'track': ['6F9yAYUaNbUhdlQyt5uZ3b', '7BwxbmYFy0l3ROHDjV2c14']}
+{'id': '4VgcQ6fEWr3fLqnwmcPZxM', 'name': 'Romance', 'type': 'album', 'rlsMonth': 'Dec', 'rlsYear': '@2003', 'track': ['2DAsLftcRKP3iarCPmI1RY']}
+{'id': '8NrzlirdIH6CZRql9HNedM', 'name': 'Romances', 'type': 'album', 'rlsMonth': 'Oct', 'rlsYear': '@2007', 'track': ['1livAifXh1DMv25kTfFFHR', '5kB8WUUla9s2w7yXD7h4CQ']}
+{'id': '8TnmSPmOeIqm6hSBftAUrv', 'name': 'Segundo Romance', 'type': 'album', 'rlsMonth': 'Mar', 'rlsYear': '@2006', 'track': ['1lKI9y1DL6QnYTZguVmACX']}
+{'id': '7NgBPaOtgkTxuCEqEybZBN', 'name': 'Soy Como Quiero Ser', 'type': 'album', 'rlsMonth': 'Mar', 'rlsYear': '@2014', 'track': ['1uKjQoh8JZj9ryuYRhpd7E']}
+{'id': '7YzPzk2g4sNg1m2hy5Rgpm', 'name': 'Vivo', 'type': 'album', 'rlsMonth': 'Aug', 'rlsYear': '@2002', 'track': ['1jxO9AwMqYynDsuMWKrPvi']}
+{'id': '3ZPF8niFckVcUXak6iAG92', 'name': 'bloom', 'type': 'album', 'rlsMonth': 'Dec', 'rlsYear': '@2010', 'track': ['1PSBzsahR2AKwLJgx8ehBj']}
+{'id': '5CYzm00Qa5Af5uzcUi7uBc', 'name': 'FCK LOVE 3 OVER YOU', 'type': 'album', 'rlsMonth': 'Dec', 'rlsYear': '@2008', 'track': ['0c34ovpXiMWWUbKX0IavIH']}
+{'id': '7NHuECdCR3GwXMQbRNc4LP', 'name': 'Home with Machine Gun Kelly X Ambassadors  Bebe Rexha From Bright The Album', 'type': 'single', 'rlsMonth': 'Dec', 'rlsYear': '@2008', 'track': ['0OI7AFifLSoGzpb8bdBLLV']}
+{'id': '5QHlrAgpWc4JZwVqQHbhqC', 'name': 'Hotel Diablo', 'type': 'album', 'rlsMonth': 'Feb', 'rlsYear': '@2006', 'track': ['2gTdDMpNxIRFSiu7HutMCg']}
+{'id': '2UCKEvN42Sh3lFamGliAVT', 'name': 'Tickets To My Downfall', 'type': 'album', 'rlsMonth': 'Aug', 'rlsYear': '@2020', 'track': ['7kDUspsoYfLkWnZR7qwHZl', '1VSuFS7PahCN3SWbOcQ98m', '6mADjHs6FXdroPzEGW6KVJ']}
+{'id': '1OmVYQlpdm5SWq0gcLYxbq', 'name': 'Daydream', 'type': 'album', 'rlsMonth': 'Mar', 'rlsYear': '@2015', 'track': ['6xkryXuiZU360Lngd4sx13', '2aBxt229cbLDOvtL7Xbb9x']}
+{'id': '3QAGN2iH00oMR3sOoeN2sy', 'name': 'It Aint Safe No More  ', 'type': 'album', 'rlsMonth': 'Oct', 'rlsYear': '@2004', 'track': ['0YImOCkIJ2PWhCXaURCZnY']}
+{'id': '6J88gghdgoCHYQggYfbTKw', 'name': 'Memoirs of an imperfect Angel', 'type': 'album', 'rlsMonth': 'Nov', 'rlsYear': '@2018', 'track': ['3IcIIZMMS7UArJJPtEHXG8']}
+{'id': '5KSOdOVLiDgWgligKg38og', 'name': 'Merry Christmas', 'type': 'album', 'rlsMonth': 'Mar', 'rlsYear': '@2011', 'track': ['3bH2Eu9A9ymI4UnGHRmoXg', '0bYg9bo50gSsH3LtXe2SQn', '3PIDciSFdrQxSQSihim3hN', '3B7FO3kJ5kv3mX7yiaB7sT']}
+{'id': '0L4SKlET9NSFD1fGvizCpW', 'name': 'Music Box', 'type': 'album', 'rlsMonth': 'Feb', 'rlsYear': '@2008', 'track': ['1kMOJBmpfWD9fir6st9uqS', '4FCb4CUbFCMNRkI6lYc1zI']}
+{'id': '2OtPXQ9Q7dHnGzC1TS0zfB', 'name': 'The Emancipation of Mimi', 'type': 'album', 'rlsMonth': 'Oct', 'rlsYear': '@2009', 'track': ['3LmvfNUQtglbTrydsdIqFU']}
+{'id': '7TK0rlWKG9r9XG7gvLkStH', 'name': 'And Justice for All Remastered Deluxe Box Set', 'type': 'album', 'rlsMonth': 'Aug', 'rlsYear': '@2011', 'track': ['0LAcM6I7ijW4VVW0aytl1t']}
+{'id': '9I8pvf545KVtaWNceqvgnL', 'name': 'Garage Inc', 'type': 'album', 'rlsMonth': 'May', 'rlsYear': '@2017', 'track': ['3ZpWy5rBZv2aLQAldnmTsP']}
+{'id': '4DXTwT4Bzk78D6VF5US26H', 'name': 'Lux terna', 'type': 'single', 'rlsMonth': 'Dec', 'rlsYear': '@2001', 'track': ['3pwmJJRlr8nXNN9PFD18np']}
+{'id': '3GcedqCu4AQfkb0b7vPIvb', 'name': 'Master of Puppets Remastered Deluxe Box Set', 'type': 'album', 'rlsMonth': 'Aug', 'rlsYear': '@2010', 'track': ['54bm2e3tk8cliUz3VSdCPZ']}
+{'id': '3Vw7DctlkRg0e72uqOyNWx', 'name': 'Metallica Remastered', 'type': 'album', 'rlsMonth': 'May', 'rlsYear': '@2012', 'track': ['3VqHuw0wFlIHcIPWkhIbdQ', '2CtemffYhT0DJWcT1XW047', '7lwvxYumAEo10lzAplRGXM', '5UaDi8KzCGJqFfVAOBfXhi']}
+{'id': '7ET4awe8zkHLDsUfHWFYNT', 'name': 'Ride The Lightning Deluxe Remaster', 'type': 'album', 'rlsMonth': 'Oct', 'rlsYear': '@2019', 'track': ['51YZAJhOwIC5Gg3jMbAmhZ']}
+{'id': '4Uvz3doSVZieY8aSzORWQC', 'name': 'Screaming Suicide', 'type': 'single', 'rlsMonth': 'Oct', 'rlsYear': '@2015', 'track': ['6ZCh9hBeFzMIPycRnyPqZT']}
+{'id': '0XnWJLunsIkcKUtCbrkh4l', 'name': 'Bad Remastered', 'type': 'album', 'rlsMonth': 'Mar', 'rlsYear': '@2021', 'track': ['5T7ywazdGIydr6JCW6t02j', '76HKOVWqsEg26SECtmw7Rz']}
+{'id': '9CzH119X7Z6IGVVP3IvbYy', 'name': 'Dangerous', 'type': 'album', 'rlsMonth': 'Oct', 'rlsYear': '@2017', 'track': ['4jnFqNWeJCeCRHc4HCdxfd']}
+{'id': '7EOCJghgazz4ZSTBa3Cypw', 'name': 'Off the Wall', 'type': 'album', 'rlsMonth': 'Jan', 'rlsYear': '@2021', 'track': ['7oOOI85fVQvVnK5ynNMdW7', '46eu3SBuFCXWsPT39Yg3tJ']}
+{'id': '1MdQZchgOaxP1Qs43xhHzk', 'name': 'Thriller', 'type': 'album', 'rlsMonth': 'Mar', 'rlsYear': '@2018', 'track': ['7J1uxwnxfQLu4APicE5Rnj', '3BovdzfaX4jb5KFQwoPfAw']}
+{'id': '6E7WqD93wquugrygvzvvcs', 'name': 'XSCAPE', 'type': 'album', 'rlsMonth': 'Feb', 'rlsYear': '@2010', 'track': ['5BKKy9fIJL5uM9fz1SnqyP', '48td6xvpokdYwvbl3JIiXP']}
+{'id': '6WbOlQF0wJ6OyH7bYlldfT', 'name': 'Climaxxx', 'type': 'album', 'rlsMonth': 'Dec', 'rlsYear': '@2018', 'track': ['7anSoGdgtmJTAPZBzcPhO6']}
+{'id': '6LIuPfmObYPP35vp9h9LbR', 'name': 'Exitos', 'type': 'album', 'rlsMonth': 'May', 'rlsYear': '@2020', 'track': ['2Eg6dOam7cAe5turf2bnCg']}
+{'id': '4NAIw8pGccyci7kS2msXgY', 'name': 'Fnix', 'type': 'album', 'rlsMonth': 'Sep', 'rlsYear': '@2012', 'track': ['7qCAVkHWZkF44OzOUKf8Cr', '5Fim1gaXBgsiFfsQAfQSDS']}
+{'id': '1IdzlAPWiB9zM4KrThO481', 'name': 'Gargolas 3', 'type': 'album', 'rlsMonth': 'May', 'rlsYear': '@2005', 'track': ['0tIpUUbOYIWqvI50Ksf7D5']}
+{'id': '5BddF9X5wvJ0RDua6IFXIy', 'name': 'Golden', 'type': 'album', 'rlsMonth': 'Apr', 'rlsYear': '@2005', 'track': ['0ERbK7qVqveCaBWIiYCrl3']}
+{'id': '2G21F54TCg8fwqhmIx8PYA', 'name': 'Intimo', 'type': 'album', 'rlsMonth': 'Jun', 'rlsYear': '@2004', 'track': ['5YUyW9opqNsMSEzzecZih1']}
+{'id': '2LxIazuyeE1LeV3EUG2g8b', 'name': 'Nicky Jam Bzrp Music Sessions Vol 41', 'type': 'single', 'rlsMonth': 'Jan', 'rlsYear': '@2011', 'track': ['03LfOYi0icz4souspZVVhq']}
+{'id': '0WRJBOY9yYi1HF9faHlgnV', 'name': 'Si Te Preguntan', 'type': 'single', 'rlsMonth': 'Aug', 'rlsYear': '@2011', 'track': ['20yLo8tCAM1LXixAdBf3f2']}
+{'id': '3QMi8J5EFcg2ZIWQTGgKBB', 'name': 'All I Know So Far Setlist', 'type': 'album', 'rlsMonth': 'Jun', 'rlsYear': '@2016', 'track': ['0UKUfxIkDAMZz7hMdiVX3m']}
+{'id': '5PBGmtcJB5uzbRQGhyXWXp', 'name': 'Beautiful Trauma', 'type': 'album', 'rlsMonth': 'Oct', 'rlsYear': '@2013', 'track': ['0Qh38w01QRXK6KHIv0e3hb']}
+{'id': '3Q7uSyh7OWGgpzkPKRnHmW', 'name': 'Funhouse Expanded Edition', 'type': 'album', 'rlsMonth': 'Apr', 'rlsYear': '@2013', 'track': ['0JiY190vktuhSGN6aqJdrt']}
+{'id': '6DMoAQW1pWxMI2OglcN3Tu', 'name': 'Im Not Dead', 'type': 'album', 'rlsMonth': 'Aug', 'rlsYear': '@2000', 'track': ['2hns6Dv29Yrg68AVTJiAyA']}
+{'id': '8MniDS8fEEAZv78xOn5bWi', 'name': 'Never Gonna Not Dance Again', 'type': 'single', 'rlsMonth': 'Oct', 'rlsYear': '@2005', 'track': ['6sZo5nJIsFWXefRCCexpx0']}
+{'id': '0L5K0nHXHu5AMlfQK2cMzi', 'name': 'Raise Your Glass', 'type': 'single', 'rlsMonth': 'Apr', 'rlsYear': '@2009', 'track': ['1gv4xPanImH17bKZ9rOveR']}
+{'id': '0NZypRFfklr6ZDi20z45MS', 'name': 'The Truth About Love', 'type': 'album', 'rlsMonth': 'Oct', 'rlsYear': '@2017', 'track': ['1mKXFLRA179hdOWQBwUk9e', '1jF7IL57ayN4Ity3jQqGu0', '1QNqrsNQ1JVLEwncov3lEY']}
+{'id': '8Le2AZEQTFrSq6kuzkw6NE', 'name': 'TRUSTFALL', 'type': 'single', 'rlsMonth': 'Dec', 'rlsYear': '@2012', 'track': ['4FWbsd91QSvgr1dSWwW51e']}
+{'id': '3BuqgEnXkqBvgvU118VpQ3', 'name': 'CALL ME IF YOU GET LOST', 'type': 'album', 'rlsMonth': 'Jul', 'rlsYear': '@2020', 'track': ['7z4xW9WY86uH3gd1V9pfCM']}
+{'id': '1O7kNXgYsd01JtLHsRNz9S', 'name': 'Cash In Cash Out', 'type': 'single', 'rlsMonth': 'Dec', 'rlsYear': '@2008', 'track': ['3S68RFe1lsdCdTMPIMJM3X']}
+{'id': '7QvgCBFeta0AEMA3T8mW9p', 'name': 'Down In Atlanta', 'type': 'single', 'rlsMonth': 'Sep', 'rlsYear': '@2006', 'track': ['5unjCay0kUjuej5ebn4nS4']}
+{'id': '2ETpPsfBpFSsPQGZxEsGGP', 'name': 'Funk Wav Bounces Vol 2', 'type': 'album', 'rlsMonth': 'May', 'rlsYear': '@2007', 'track': ['6clzeGvi1CFioMOolbAOlX']}
+{'id': '3KZxrB9YNgvHoqPlMce0Co', 'name': 'Funk Wav Bounces Vol1', 'type': 'album', 'rlsMonth': 'Jun', 'rlsYear': '@2017', 'track': ['5bcTCxgc7xVfSaMV3RuVke']}
+{'id': '2Hi3xgBoC4q2XVIbaOs53S', 'name': 'G I R L', 'type': 'album', 'rlsMonth': 'Feb', 'rlsYear': '@2013', 'track': ['60nZcImufyMA1MKQY3dcCH']}
+{'id': '1EpePTPQrllUJgkYO1SiqS', 'name': 'Hit Different', 'type': 'single', 'rlsMonth': 'May', 'rlsYear': '@2005', 'track': ['7Bar1kLTmsRmH6FCKKMEyU']}
+{'id': '8Qcgh9lJXJLc48cHqlvLJx', 'name': 'Just A Cloud Away', 'type': 'single', 'rlsMonth': 'Oct', 'rlsYear': '@2017', 'track': ['0DGTcMqvVR7fmBXgiG6jz4']}
+{'id': '5LO618OIn3c9xw3IigrgSh', 'name': 'Luv Is Rage 2', 'type': 'album', 'rlsMonth': 'Feb', 'rlsYear': '@2009', 'track': ['1MJErNPIQUoEMu4YUUmecm']}
+{'id': '1WUbcAgvgT8yA4DdngLJx5', 'name': 'The Neptunes Present Clones', 'type': 'album', 'rlsMonth': 'Jul', 'rlsYear': '@2008', 'track': ['0iFOG4Ki9aDmJUYUFHQlPG']}
+{'id': '0UoBZ1gbv2DmhIYG5QoOHH', 'name': 'The Wall', 'type': 'album', 'rlsMonth': 'Jan', 'rlsYear': '@2017', 'track': ['4gMgiXfqyzZLMhsksGmbQV']}
+{'id': '6VGp6WP9tEgDyBXqBg2cU6', 'name': 'Wish You Were Here', 'type': 'album', 'rlsMonth': 'Nov', 'rlsYear': '@2008', 'track': ['6mFkJmJqdDVQ1REhVfGgd1']}
+{'id': '6TBRSmwgitZHgzADkxsWJV', 'name': 'Global Warming Meltdown Deluxe Version', 'type': 'album', 'rlsMonth': 'Aug', 'rlsYear': '@2008', 'track': ['3cHyrEgdyYRjgJKSOiOtcS', '0Hf4aIJpsN4Os2f0y0VqWl']}
+{'id': '3TVxY08B60FWzQgA8T9EDZ', 'name': 'Globalization', 'type': 'album', 'rlsMonth': 'Dec', 'rlsYear': '@2016', 'track': ['2bJvI42r8EF3wxjOuDav4r', '4Y7XAxTANhu3lmnLAzhWJW', '1PCvKFPWnTXAe2oaReVUcr']}
+{'id': '5Ii0ESICu3ubPc1gFlggL0', 'name': 'Pitbull Starring In Rebelution', 'type': 'album', 'rlsMonth': 'Oct', 'rlsYear': '@2005', 'track': ['0OPyDgTRuIdCJ9B4bYSths']}
+{'id': '9OpaWLXmLwAERQMh5wad1T', 'name': 'Planet Pit Deluxe Version', 'type': 'album', 'rlsMonth': 'Jun', 'rlsYear': '@2013', 'track': ['4QNpBfC0zvjKqPJcyqBy9W', '62zFEHfAYl5kdHYOivj4BC', '3rfhI32Il2hVRKDkuGeeen']}
+{'id': '1SsrngWSvxF3VTxw0mBHZI', 'name': 'Agent Vinod', 'type': 'album', 'rlsMonth': 'Apr', 'rlsYear': '@2014', 'track': ['6FjbAnaPRPwiP3sciEYctO']}
+{'id': '1GQF6FqVoXaYcbzs229isg', 'name': 'Ajab Prem Ki Ghazab Kahani Original Motion Picture Soundtrack', 'type': 'album', 'rlsMonth': 'Dec', 'rlsYear': '@2015', 'track': ['0dLbrlAVPPjpPqnYfmJsWk']}
+{'id': '0WZG4Ifcizy8F2IyLFZPXQ', 'name': 'Bhool Bhulaiyaa 2', 'type': 'album', 'rlsMonth': 'Jul', 'rlsYear': '@2017', 'track': ['2FZDNh6tm9mkZ9vTphuAh8']}
+{'id': '8IR6LyUuR2bxIDiMWwNfvA', 'name': 'Brahmastra Original Motion Picture Soundtrack', 'type': 'album', 'rlsMonth': 'Oct', 'rlsYear': '@2020', 'track': ['4UMIv5jd9gK98a39BQRD9X', '4SqPZorSDuUtvdJwVGeZRC', '6zfvsbeuFKoWIdoRb3JdhA']}
+{'id': '0YJPRPovY693End1yXTBHG', 'name': 'Chhichhore', 'type': 'album', 'rlsMonth': 'Jun', 'rlsYear': '@2012', 'track': ['5O932cZmzOZGOGZz9RHx20']}
+{'id': '9OKMr8xRc8ptennDlAtXw0', 'name': 'Jab We Met', 'type': 'album', 'rlsMonth': 'Feb', 'rlsYear': '@2000', 'track': ['7eQl3Yqv35ioqUfveKHitE']}
+{'id': '2JKH0U5ygXGTkXivgcwPqQ', 'name': 'Kalank Original Motion Picture Soundtrack', 'type': 'album', 'rlsMonth': 'Nov', 'rlsYear': '@2013', 'track': ['6vo7Y1iWyZvpjvFbf6BiZ5']}
+{'id': '1M2qPfqWB6RzKPfDrZM3Kn', 'name': 'Love Aaj Kal Original Motion Picture Soundtrack', 'type': 'album', 'rlsMonth': 'Jul', 'rlsYear': '@2010', 'track': ['1smFN2CLqGROu0J0UyvDfL']}
+{'id': '9CgavCIGUQFdo10T8MtrWN', 'name': 'Yeh Jawaani Hai Deewani', 'type': 'album', 'rlsMonth': 'Jun', 'rlsYear': '@2004', 'track': ['4bD9z9qa4qg9BhryvYWB7c']}
+{'id': '7Lob0FQ6pV92VdhEMZDJKd', 'name': 'In Rainbows', 'type': 'album', 'rlsMonth': 'Sep', 'rlsYear': '@2008', 'track': ['4wajJ1o7jWIg62YqpkHC7S', '0YJ9FWWHn9EfnN0lHwbzvV', '35YyxFpE0ZTOoqFx5bADW8']}
+{'id': '6J44FPcEUxcnRBtwbN6Iy9', 'name': 'OK Computer', 'type': 'album', 'rlsMonth': 'Feb', 'rlsYear': '@2008', 'track': ['10nyNJ6zNy2YVYLrcwLccB', '63OQupATfueTdZMWTxW03A', '0z1o5L7HJx562xZSATcIpY']}
+{'id': '2KfKqEryGul3NnMmwqWLpi', 'name': 'Pablo Honey', 'type': 'album', 'rlsMonth': 'Nov', 'rlsYear': '@2000', 'track': ['70LcF31zb1H0PyJoS1Sx1r']}
+{'id': '3NcdOUwRyqsgQAHvTzPgPT', 'name': 'The Bends', 'type': 'album', 'rlsMonth': 'Feb', 'rlsYear': '@2014', 'track': ['2a1iMaoWQ5MnvLFBDv4qkf', '73CKjW3vsUXRpy3NnX4H7F', '1dyTcli07c77mtQK3ahUZR']}
+{'id': '1FgJCPE70UyCkPoEVp9Mzu', 'name': 'Blood Sugar Sex Magik Deluxe Edition', 'type': 'album', 'rlsMonth': 'Jul', 'rlsYear': '@2016', 'track': ['3d9DChrdc6BOeFsbrZ3Is0', '0uppYCG86ajpV2hSR3dJJ0']}
+{'id': '2McLObOxw1BtPpCdIK8tGM', 'name': 'By the Way Deluxe Edition', 'type': 'album', 'rlsMonth': 'Oct', 'rlsYear': '@2020', 'track': ['3ZOEytgrvLwQaqXreDs2Jx', '1f2V8U1BiWaC9aJWmpOARe']}
+{'id': '5V4EZufpBzTIvJPZ3c4U1n', 'name': 'Californication Deluxe Edition', 'type': 'album', 'rlsMonth': 'Jul', 'rlsYear': '@2019', 'track': ['48UPSzbZjgc449aqz8bxox', '1G391cbiT3v3Cywg8T7DM1', '64BbK9SFKH2jk86U3dGj2P']}
+{'id': '6VgG0VMs8OEMEvRGdi4Dwh', 'name': 'Stadium Arcadium', 'type': 'album', 'rlsMonth': 'Oct', 'rlsYear': '@2003', 'track': ['2aibwv5hGXSgw7Yru8IYTO', '10Nmj3JCNoMeBQ87uw5j8k']}
+{'id': '9YIgInMyIvateveUm8aMPG', 'name': 'The Getaway', 'type': 'album', 'rlsMonth': 'Mar', 'rlsYear': '@2001', 'track': ['2oaK4JLVnmRGIO9ytBE1bt']}
+{'id': '7Zo77lDAgCWMavi9kbyhlG', 'name': '10', 'type': 'album', 'rlsMonth': 'May', 'rlsYear': '@2005', 'track': ['58dGRQrNmAJeRMFuguUbvD']}
+{'id': '2OKdLHtMKqeG14B7TpugMx', 'name': 'Contra La Pared', 'type': 'single', 'rlsMonth': 'Dec', 'rlsYear': '@2003', 'track': ['37eGbhE1xVFSvcKkqGb6i1']}
+{'id': '5GQQ5AgFZhEzDBYgODh4oF', 'name': 'Dutty Rock 20th Anniversary', 'type': 'album', 'rlsMonth': 'Jul', 'rlsYear': '@2021', 'track': ['6bK9BH9Ts8Gj5JFvnQkzak', '5lJx5eiSahFfsqkMJVlkDN']}
+{'id': '0M3Z4ZwRPuUS98zpcx42AR', 'name': 'Mad Love The Prequel', 'type': 'album', 'rlsMonth': 'Oct', 'rlsYear': '@2012', 'track': ['48QmG1dfvMuYLxMPt7KSRA']}
+{'id': '0JqZFn31udVy9gXTHT4CER', 'name': 'Only Hits', 'type': 'compilation', 'rlsMonth': 'Mar', 'rlsYear': '@2007', 'track': ['6k8uthjEbttfWXcGaNTQGD']}
+{'id': '8R0YSfN5M8YSdgrxBwt8Nz', 'name': 'The Trinity', 'type': 'album', 'rlsMonth': 'Oct', 'rlsYear': '@2018', 'track': ['0k2GOhqsrxDTAbFFSdNJjT', '6YB6CK4Tsb0BgtxCEL9KlI']}
+{'id': '6AFDZcSpGFvwpKJiETcP7A', 'name': 'Tomahawk Technique', 'type': 'album', 'rlsMonth': 'Feb', 'rlsYear': '@2009', 'track': ['1zZIGnXIcDKU8QIUkR20nK']}
+{'id': '1PNBgHc3ih7wezHcYWcUIS', 'name': 'UP', 'type': 'single', 'rlsMonth': 'Nov', 'rlsYear': '@2020', 'track': ['2ykXJ9QVwx9Li8nsW0h6b2']}
+{'id': '3XEvrdThNAu5SOSyWZAquY', 'name': 'Donde Estan Los Ladrones', 'type': 'album', 'rlsMonth': 'Jun', 'rlsYear': '@2000', 'track': ['78dbqYDvx6FOefROApu9w0']}
+{'id': '1QXMOkIJTXe6kBItARnA0Z', 'name': 'El Dorado', 'type': 'album', 'rlsMonth': 'Jun', 'rlsYear': '@2013', 'track': ['6mICuAdrwEjh6Y6lroV2Kg']}
+{'id': '1Hw32b2v3NmJAoetBwN3av', 'name': 'Fijacin Oral Vol 1', 'type': 'album', 'rlsMonth': 'May', 'rlsYear': '@2015', 'track': ['0OEBOJhSObnFuHuasXdt52']}
+{'id': '8W1k7OgdNQc1YeGinlEVwq', 'name': 'Listen Up The Official 2010 FIFA World Cup Album', 'type': 'compilation', 'rlsMonth': 'Apr', 'rlsYear': '@2015', 'track': ['6bNB5gxFX6Q87DbQWb8OWZ']}
+{'id': '4H40JY7UIfir30gCgyy1hZ', 'name': 'Monotona', 'type': 'single', 'rlsMonth': 'Dec', 'rlsYear': '@2015', 'track': ['6G12ZafqofSq7YtrMqUm76']}
+{'id': '9ImwcDtwnCIElHqpTtmyRd', 'name': 'Oral Fixation Vol 2 Expanded Edition', 'type': 'album', 'rlsMonth': 'Jun', 'rlsYear': '@2016', 'track': ['3ZFTkvIE7kyPt6Nu3PEa7V']}
+{'id': '0LcOrziOSm7p5Flq2bZYek', 'name': 'Pies Descalzos', 'type': 'album', 'rlsMonth': 'Dec', 'rlsYear': '@2014', 'track': ['0KAqMRUSZwzG3dZLdDA4eH']}
+{'id': '6Lwqf1f7pbue5cHaRpdgdX', 'name': 'Shakira Bzrp Music Sessions Vol 53', 'type': 'single', 'rlsMonth': 'Oct', 'rlsYear': '@2009', 'track': ['4nrPB8O7Y7wsOCJdgXkthe']}
+{'id': '1Hfv53DMqTggFLw2iaQwN2', 'name': 'Te Felicito', 'type': 'single', 'rlsMonth': 'Jan', 'rlsYear': '@2021', 'track': ['2rurDawMfoKP4uHyb2kJBt']}
+{'id': '9HFEb4c1SgQtLcsfFY8Ixc', 'name': 'Hamari Adhuri Kahani Original Motion Picture Soundtrack', 'type': 'album', 'rlsMonth': 'Oct', 'rlsYear': '@2019', 'track': ['1cmZbGkCEVVAck2MsWpPYQ']}
+{'id': '1R2U4H17Fn8A46TWdvgOEX', 'name': 'Pal', 'type': 'single', 'rlsMonth': 'Jul', 'rlsYear': '@2001', 'track': ['5G7pZ8G8NFvS1MQ9H4L7dC']}
+{'id': '3TRVOE8KBJ06XCZPoWVTqQ', 'name': 'Rab Ne Bana Di Jodi Original', 'type': 'album', 'rlsMonth': 'Jul', 'rlsYear': '@2017', 'track': ['4Q3oEhpsDommo2naYhCpAl']}
+{'id': '5YwUn7HXqQCA57R9MgqcnK', 'name': 'Samjhawan', 'type': 'single', 'rlsMonth': 'Dec', 'rlsYear': '@2019', 'track': ['0rk2X5TAhraBC5aCIXK2Rq']}
+{'id': '6Lv0sMV4Vich1nvSxrYFhq', 'name': 'Shor in the City Original Motion Picture Soundtrack', 'type': 'album', 'rlsMonth': 'Oct', 'rlsYear': '@2005', 'track': ['6udC4b4jOSnHb9ItnXgKLR']}
+{'id': '8PGqbqIhQaiEeB1OfT8Ahq', 'name': 'Silunu Oru Kadhal', 'type': 'album', 'rlsMonth': 'Nov', 'rlsYear': '@2021', 'track': ['6vZj02bcQqLTYRAi4jRkw7']}
+{'id': '3FgVxuW4TMr59FJzbrpCB1', 'name': 'Soulful Sonu Nigam Specials', 'type': 'compilation', 'rlsMonth': 'Aug', 'rlsYear': '@2006', 'track': ['3WVHfTd7xz9VPYJQFpOp8j']}
+{'id': '0W9fZ9aOSkSeqsXXB2gWEp', 'name': 'Tere Naal Love Ho Gaya Original Motion Picture Soundtrack', 'type': 'album', 'rlsMonth': 'May', 'rlsYear': '@2014', 'track': ['5a11x5PUFvJEadMRqtNtTr']}
+{'id': '6WPfKa1O36perbXw96ReiY', 'name': '1000 Forms Of Fear Deluxe Version', 'type': 'album', 'rlsMonth': 'Jul', 'rlsYear': '@2012', 'track': ['2s1sdSqGcKxpPr5lCl7jAV', '5S9lfZu1YF8xKkgSsqL2Bd']}
+{'id': '9S3V8GUnh1Toi9zVDaf5Ks', 'name': 'ENOC', 'type': 'album', 'rlsMonth': 'Apr', 'rlsYear': '@2004', 'track': ['5cpJFiNwYyWwFLH0V6B3N8']}
+{'id': '8PhoVqffzJK2gDEyYRVR4G', 'name': 'Everyday Is Christmas Deluxe Edition', 'type': 'album', 'rlsMonth': 'Jul', 'rlsYear': '@2019', 'track': ['7uoFMmxln0GPXQ0AcCBXRq', '1N1ZpYUJc9fwrqk53FGgWv']}
+{'id': '5HbDAVUY3z562eGapxSgJr', 'name': 'Icarus Falls', 'type': 'album', 'rlsMonth': 'Dec', 'rlsYear': '@2014', 'track': ['3e7sxremeOE3wTySiOhGiP']}
+{'id': '8Avg0vCKIFZ2SYtF4BeUD9', 'name': 'LABRINTH SIA  DIPLO PRESENT LSD', 'type': 'album', 'rlsMonth': 'Sep', 'rlsYear': '@2014', 'track': ['4xigPf2sigSPmuFH3qCelB']}
+{'id': '7FNN3AAP7NoGgl3R1mMhip', 'name': 'This Is Acting Deluxe Version', 'type': 'album', 'rlsMonth': 'Dec', 'rlsYear': '@2001', 'track': ['1yvMUkIOTeUNtNWlWRgANS', '3S4px9f4lceWdKf0gWciFu']}
+{'id': '6KO424audtxN6S8J8M9glK', 'name': 'Unstoppable R3HAB Remix', 'type': 'single', 'rlsMonth': 'Sep', 'rlsYear': '@2021', 'track': ['0F3v8p8ZnEGtZDxNcJ5Klq']}
+{'id': '4SlgdQ02OGeUQl75Py5nhU', 'name': 'Bad Decisions with BTS  Snoop Dogg', 'type': 'single', 'rlsMonth': 'May', 'rlsYear': '@2000', 'track': ['0xzI1KAr0Yd9tv8jlIk3sn']}
+{'id': '0CdkvvgzDZnrTpF7Mrx3mH', 'name': 'Mac and Devin Go to High School Music from and Inspired by the Movie', 'type': 'album', 'rlsMonth': 'Jul', 'rlsYear': '@2004', 'track': ['6YbhspuOar1D9WSSnfe7ds']}
+{'id': '5LNHqahnJPYIHqcLo8BXB0', 'name': 'Paid Tha Cost To Be Da Bo', 'type': 'album', 'rlsMonth': 'Feb', 'rlsYear': '@2012', 'track': ['7FrJV8tydWEv1Mxu2mIQrm']}
+{'id': '8OvuHKo14XragbozOONuvY', 'name': 'Qu Maldicin', 'type': 'single', 'rlsMonth': 'May', 'rlsYear': '@2021', 'track': ['2RxC2peY3FtrurYmbbmanr']}
+{'id': '7Os4tomWnVyCR5VgpBpaCg', 'name': 'RG Rhythm  Gangsta The Masterpiece', 'type': 'album', 'rlsMonth': 'Dec', 'rlsYear': '@2012', 'track': ['2NBQmPrOEEjA8VbeWOQGxO']}
+{'id': '7HVEuUfdk8ET7eYZiPlgiu', 'name': 'Riders On The Storm Fredwreck Remix', 'type': 'single', 'rlsMonth': 'Feb', 'rlsYear': '@2010', 'track': ['0RcYEWXtbu4ehdv1tiBOi0']}
+{'id': '2AJyFgSpFTLhCDYG28MD52', 'name': 'Sexy Songs 2020', 'type': 'compilation', 'rlsMonth': 'May', 'rlsYear': '@2013', 'track': ['2yGk5A4oipC4jvDLIVlQIJ']}
+{'id': '7JBTrY5Kb1aFYreZugozC6', 'name': 'Sweat Snoop Dogg Vs David Guetta Remix', 'type': 'single', 'rlsMonth': 'Oct', 'rlsYear': '@2021', 'track': ['0R7YVi7w41Dr9jU5vblAok']}
+{'id': '1HFmdodf7oaoEeVUgVRYfx', 'name': 'Thats My N with Meek Mill YG  Snoop Dogg From Bright The Album', 'type': 'single', 'rlsMonth': 'May', 'rlsYear': '@2017', 'track': ['3i1B1PnsfnOQPGVIzhf1lr']}
+{'id': '0NO7WgSI3Z5Jg3UwUnI0Bx', 'name': '1 Remastered', 'type': 'album', 'rlsMonth': 'Jun', 'rlsYear': '@2021', 'track': ['0aym2LBJBk9DAYuHHutrIl', '4pbG9SUmWIvsROVLF0zF9s']}
+{'id': '6MgIxkFXVaUeaG8I4GJOZa', 'name': 'Abbey Road Remastered', 'type': 'album', 'rlsMonth': 'Jul', 'rlsYear': '@2011', 'track': ['6dGnYIeXmHdcikdzNNDMm2', '2EqlS6tkEnglzr7tkKAAYD', '0pNeVovbiZHkulpGeOx1Gj']}
+{'id': '1ANXoo1DIxzLS289vwfI4g', 'name': 'Help Remastered', 'type': 'album', 'rlsMonth': 'Jul', 'rlsYear': '@2001', 'track': ['3BQHpFgAp4l80e1XslIjNI']}
+{'id': '8JB3zqdX0vNTGxxQng5AHo', 'name': 'Let It Be Remastered', 'type': 'album', 'rlsMonth': 'Aug', 'rlsYear': '@2009', 'track': ['7iN1s7xHE4ifF5povM6A48']}
+{'id': '4AUY8sOhyGDWidEsUbBbJV', 'name': 'Please Please Me Remastered', 'type': 'album', 'rlsMonth': 'Nov', 'rlsYear': '@2016', 'track': ['5ZBeML7Lf3FMEVviTyvi8l']}
+{'id': '9Rx5EsZUbG5WmoF1LPvaG5', 'name': 'Rubber Soul Remastered', 'type': 'album', 'rlsMonth': 'Feb', 'rlsYear': '@2015', 'track': ['3KfbEIOC7YIv90FIfNSZpo']}
+{'id': '5UpQO41C0N9dJXBB4WpZXO', 'name': 'The Beatles Remastered', 'type': 'album', 'rlsMonth': 'Apr', 'rlsYear': '@2010', 'track': ['5jgFfDIR6FR0gvlA56Nakr']}
+{'id': '7R7qwKast1gCsyYgFp0P7h', 'name': '103500', 'type': 'single', 'rlsMonth': 'Jan', 'rlsYear': '@2012', 'track': ['6BePGk3eCan4FqaW2X8Qy3']}
+{'id': '2Gf4CMDWND6MMHgMl23Gad', 'name': 'Another Love Tisto Remix', 'type': 'single', 'rlsMonth': 'Sep', 'rlsYear': '@2012', 'track': ['4Et6tUEO7biKxZEfJXpNj1']}
+{'id': '4BdpeiyXlEpPIwSd2FicWc', 'name': 'Baila Conmigo', 'type': 'single', 'rlsMonth': 'Apr', 'rlsYear': '@2003', 'track': ['3KruoUtSkm84Az0bJunnxl']}
+{'id': '4KzPxScPxLiXCwL9u2zErA', 'name': 'Dont Be Shy', 'type': 'single', 'rlsMonth': 'Sep', 'rlsYear': '@2004', 'track': ['0bI7K9Becu2dtXK1Q3cZNB']}
+{'id': '5GgT1iU2s41YwVmgDaosap', 'name': 'Hot In It', 'type': 'single', 'rlsMonth': 'Apr', 'rlsYear': '@2012', 'track': ['3Z7CaxQkqbIs1rewKi6v4W']}
+{'id': '7Xlz38Z9RCVyzxzN4YChTX', 'name': 'Lay Low', 'type': 'single', 'rlsMonth': 'Sep', 'rlsYear': '@2005', 'track': ['0zKbDrEXKpnExhGQRe9dxt']}
+{'id': '0TTwdXkWNdKXtLGPhQg7YS', 'name': 'The Business', 'type': 'single', 'rlsMonth': 'Dec', 'rlsYear': '@2019', 'track': ['6f3Slt0GbA2bPZlz0aIFXN']}
+{'id': '8EG41DeENuMGRiBDN2tTBs', 'name': 'The London Sessions', 'type': 'album', 'rlsMonth': 'Nov', 'rlsYear': '@2009', 'track': ['4vvnuJlgBeNVwq3TNmLMNX']}
+{'id': '6B5LxBQ4RpYI5BvT5eml66', 'name': 'The Motto', 'type': 'single', 'rlsMonth': 'Jun', 'rlsYear': '@2015', 'track': ['18asYwWugKjjsihZ0YvRxO']}
+{'id': '1PBWnGtKPa07qe3YFNBvqw', 'name': 'Alone At Prom', 'type': 'album', 'rlsMonth': 'Aug', 'rlsYear': '@2000', 'track': ['3azJifCSqg9fRij2yKIbWz', '1au2UduxcvHfa0fZS3Szci', '6ieWL5CLN9WdC875guWtMe']}
+{'id': '8CcWlsPBAcIlbn11akdSfw', 'name': 'Chixtape 5', 'type': 'album', 'rlsMonth': 'Sep', 'rlsYear': '@2015', 'track': ['0Odu228D0yGcFySGuxU4rY']}
+{'id': '6ToTrYJWwUS5PXtglduSgT', 'name': 'I LIKE', 'type': 'single', 'rlsMonth': 'Mar', 'rlsYear': '@2021', 'track': ['5uKHTLXNcftXtYfU7j9cQ6']}
+{'id': '1I7APHrTXnyMDRqOYlanwL', 'name': 'I Told You', 'type': 'album', 'rlsMonth': 'Nov', 'rlsYear': '@2001', 'track': ['2Gyc6e2cLxA5hoX1NOvYnU']}
+{'id': '2KrLgDTZPYcM6ccGfDT6By', 'name': 'In For It', 'type': 'single', 'rlsMonth': 'Aug', 'rlsYear': '@2019', 'track': ['6ydWxkzjDktHsTzvWcaZ1i']}
+{'id': '1Xxv6I8ykrbBg6Ghayl6yE', 'name': 'PLAYBOY', 'type': 'album', 'rlsMonth': 'Nov', 'rlsYear': '@2010', 'track': ['4sMmYKC0ot3GTbl2RzHw7T']}
+{'id': '7Lsop7TyXbYcUSzgTvclAc', 'name': 'The New Toronto 3', 'type': 'album', 'rlsMonth': 'Oct', 'rlsYear': '@2018', 'track': ['4xqIYGwwZTEem9U8A42SPF']}
+{'id': '2NcTubLOyb1WgDVV6Q6LZP', 'name': 'WHATS POPPIN feat DaBaby Tory Lanez  Lil Wayne Remix', 'type': 'single', 'rlsMonth': 'Apr', 'rlsYear': '@2011', 'track': ['2MbdDtCv5LUVjYy9RuGTgC']}
+{'id': '3Lnxv7cu9BYbXVpkl0RnlB', 'name': 'La ltima Misin', 'type': 'album', 'rlsMonth': 'May', 'rlsYear': '@2009', 'track': ['6OzUIp8KjuwxJnCWkXp1uL', '7it0u6IGJQLRX9Q9q7vgOj']}
+{'id': '3ZvtNRqA6iDPbQ5m27uT0V', 'name': 'Lderes', 'type': 'album', 'rlsMonth': 'Mar', 'rlsYear': '@2018', 'track': ['2FqoR7diymD1Eh7cVb3DMg']}
+{'id': '2W2UXI9HfO18GIGtZFOBKI', 'name': 'Mas Flow  Los Benjamins', 'type': 'album', 'rlsMonth': 'Dec', 'rlsYear': '@2017', 'track': ['6ksWMnPcHNyNoNf3y1BQCO']}
+{'id': '7DcLXn0oeYNrB9xCqFUQhJ', 'name': 'Mayor Que Usted', 'type': 'single', 'rlsMonth': 'May', 'rlsYear': '@2009', 'track': ['7d7aPD2oxuzjhOZnu4Dj23']}
+{'id': '3RDm5yo9RivFW9Xo87sZpR', 'name': 'Pal Mundo', 'type': 'album', 'rlsMonth': 'Oct', 'rlsYear': '@2019', 'track': ['4kAtRwNRLMKuoCbxMSxUGI']}
+{'id': '2OhSPzffvUXsltSZwCnrAe', 'name': 'Si Supieras', 'type': 'single', 'rlsMonth': 'Jul', 'rlsYear': '@2001', 'track': ['7MRU4vOkywuhZ9kbFiPuiu']}
+{'id': '4YKF80IS4zhUEhgJ3kFg7h', 'name': 'Si Te Pillo', 'type': 'single', 'rlsMonth': 'Apr', 'rlsYear': '@2020', 'track': ['2CT2oLeINCEuTEBrkTLUgD']}
+{'id': '3LeKJzp5VWy0GJS48OQBVb', 'name': 'Wisin Vs Yandel Los Extraterrestres', 'type': 'album', 'rlsMonth': 'Oct', 'rlsYear': '@2006', 'track': ['1Kgyx7NLtzsa3gWV1efGHu']}

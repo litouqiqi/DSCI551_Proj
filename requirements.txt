@@ -1,0 +1,4 @@
+dicttoxml==1.7.16
+lxml==4.9.3
+prompt_toolkit==3.0.39
+xmltodict==0.13.0
